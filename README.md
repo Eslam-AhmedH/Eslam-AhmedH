@@ -1,16 +1,12 @@
-<h1 align="center">Hi 👋, I'm Eslam Ahmed</h1>
-<h3 align="center">Software Engineer | Full-Stack .NET Developer</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1&height=250&section=header&text=Eslam%20Ahmed&fontSize=80&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20.NET%20Developer&descFontSize=25&descAlignY=65&fontColor=ffffff" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://github.com/Eslam-AhmedH">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Specialized+in+ASP.NET+Core;Always+learning+and+coding" alt="Typing SVG" />
+    <img src="https://komarev.com/ghpvc/?username=Eslam-AhmedH&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Eslam-AhmedH views" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Eslam-AhmedH&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Eslam-AhmedH views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
