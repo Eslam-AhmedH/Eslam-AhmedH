@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Eslam%20Ahmed&fontSize=70&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descFontSize=22&descAlignY=62&fontColor=ffffff" width="100%"/>
+</div>
 
-<!--
-**Eslam-AhmedH/Eslam-AhmedH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/Eslam-AhmedH">
+    <img src="https://komarev.com/ghpvc/?username=Eslam-AhmedH&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+```csharp
+public class SoftwareEngineer
+{
+    public string Name => "Eslam Ahmed";
+    public string Role => "Software Engineer & Full-Stack Developer";
+    public string[] Focus => new string[] { ".NET Core", "Clean Architecture", "Modern Web Apps" };
+    public string Motto => "Crafting scalable architectures and clean, maintainable software.";
+}
