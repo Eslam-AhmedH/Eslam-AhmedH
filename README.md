@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/Eslam-AhmedH">
-    <img src="https://komarev.com/ghpvc/?username=Eslam-AhmedH&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Eslam-AhmedH views" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Specialized+in+ASP.NET+Core;Always+learning+and+coding" alt="Typing SVG" />
   </a>
 </p>
 ---
