@@ -1,21 +1,53 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30&height=220&section=header&text=Eslam%20Ahmed&fontSize=70&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Web%20Developer&descFontSize=22&descAlignY=62&fontColor=ffffff" width="100%"/>
-</div>
+<h1 align="center">Hi 👋, I'm Eslam Ahmed</h1>
+<h3 align="center">Software Engineer | Full-Stack .NET Developer</h3>
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/Eslam-AhmedH">
-    <img src="https://komarev.com/ghpvc/?username=Eslam-AhmedH&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Specialized+in+ASP.NET+Core;Always+learning+and+coding" alt="Typing SVG" />
   </a>
-</div>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Eslam-AhmedH&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Eslam-AhmedH views" />
+</p>
+
+---
 
 ### 👨‍💻 About Me
-```csharp
-public class SoftwareEngineer
-{
-    public string Name => "Eslam Ahmed";
-    public string Role => "Software Engineer & Full-Stack Developer";
-    public string[] Focus => new string[] { ".NET Core", "Clean Architecture", "Modern Web Apps" };
-    public string Motto => "Crafting scalable architectures and clean, maintainable software.";
-}
+
+- 🌍 I'm based in **Egypt**
+- 🎓 Computer Science and Artificial Intelligence student at **Helwan University**
+- 💻 Specializing in **ASP.NET Core RESTful APIs, Clean Architecture & React**
+- 🚀 Currently working on my Graduation Project **(SAWA / SEKKA)** & enterprise applications.
+- ⚡ **Fun fact:** I love optimizing backend performance and writing clean, maintainable code.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,postgres,react,nextjs,js,html,css,tailwind,docker,git,github,postman&perline=7" alt="My Skills" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Eslam-AhmedH&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eslam-AhmedH&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eslam-AhmedH/Eslam-AhmedH/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eslam-AhmedH/Eslam-AhmedH/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Eslam-AhmedH/Eslam-AhmedH/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
