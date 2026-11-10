@@ -7,14 +7,14 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Web+Developer;Specialized+in+ASP.NET+Core;Always+learning+and+coding" alt="Typing SVG" />
   </a>
 </p>
----
+
 
 ### 👨‍💻 About Me
 
 - 🌍 I'm based in **Egypt**
 - 🎓 Computer Science and Artificial Intelligence student at **Helwan University**
 - 💻 Specializing in **ASP.NET Core RESTful APIs, Clean Architecture & React**
-- 🚀 Currently working on my Graduation Project **(SAWA / SEKKA)** & enterprise applications.
+- 🚀 Currently working on my Graduation Project **(Lamma Carpooling)** & enterprise applications.
 - ⚡ **Fun fact:** I love optimizing backend performance and writing clean, maintainable code.
 
 ---
